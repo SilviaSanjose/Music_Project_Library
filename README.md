@@ -9,6 +9,9 @@
 
 ### 🏠 [Homepage](https://github.com/SilviaSanjose/SilviaSanjose.github.io#readme)
 
+### ✨ Demo
+  * Enabled video demo
+
 ## Install
 
 ```sh
