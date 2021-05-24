@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to Music Project 👋</h1>
-<p>
-  <a href="https://github.com/SilviaSanjose/SilviaSanjosehub.io.git#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-</p>
+
+Práctica del curso de Pyhon para crear una aplicación de escritorio de archivo musical.
+CRUD de canciones.
+
 
 > Music Project Library
 
@@ -22,14 +21,9 @@ PyQt5
 
 👤 **Silvia Sanjosé**
 
-* Website: Silvia Sanjosé
 * Github: [@SilviaSanjose](https://github.com/SilviaSanjose)
 * LinkedIn: [@silvia-sanjose](https://linkedin.com/in/silvia-sanjose)
 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
